@@ -1,0 +1,484 @@
+.u-section-1 {
+  background-image: url("images/degradado-de-morado-blanco-fondo-y-textura-195417064.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}.u-section-2 {
+  min-height: 318px;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 318px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin-top: -322px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 655px;
+  pointer-events: auto;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-1 {
+  background-image: none;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  margin-left: 0;
+  background-image: none;
+  font-size: 1.5rem;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 655px;
+  pointer-events: auto;
+  background-image: url("images/sa-min.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 89px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 540px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 540px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 {
+    min-height: 66px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 414px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 621px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-image-1 {
+    min-height: 391px;
+  }
+}.u-section-3 {
+  background-image: url("images/92b2b7f0b520bbf944e2d9c5507688bb.jpg");
+  background-position: 50% 50%;
+  min-height: 707px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 60px 471px 0 566px;
+}
+
+.u-section-3 .u-image-1 {
+  height: 505px;
+  margin-top: 103px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 {
+    min-height: 593px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: calc(((100% - 940px) / 2) + 322px);
+    margin-left: calc(((100% - 940px) / 2) + 401px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    margin-right: calc(((100% - 720px) / 2) + 247px);
+    margin-left: calc(((100% - 720px) / 2) + 307px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    margin-right: calc(((100% - 540px) / 2) + 185px);
+    margin-left: calc(((100% - 540px) / 2) + 230px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    margin-right: calc(((100% - 340px) / 2) + 116px);
+    margin-left: calc(((100% - 340px) / 2) + 145px);
+  }
+}.u-section-4 {
+  background-image: url("images/pngtree-red-to-white-gradient-low-poly-abstract-background-illustration-image_418598.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 34px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 20px -42px 60px 114px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+  }
+}.u-section-5 {
+  background-image: url("images/fondo-acuarela-degradado_87374-73.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 751px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 39px 381px 0 auto;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 33px;
+  margin-bottom: 60px;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 273px;
+  background-image: url("images/Dia-de-las-Operaciones_AalP.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 273px;
+  background-image: none;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 0;
+}
+
+.u-section-5 .u-text-3 {
+  margin: 20px 0 0;
+}
+
+.u-section-5 .u-image-2 {
+  min-height: 273px;
+  background-image: url("images/40397-2519775.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-5 .u-layout-cell-4 {
+  min-height: 273px;
+  background-image: none;
+}
+
+.u-section-5 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-4 {
+  margin: 0;
+}
+
+.u-section-5 .u-text-5 {
+  margin: 20px 0 0;
+}
+
+.u-section-5 .u-layout-cell-5 {
+  min-height: 273px;
+  background-image: none;
+}
+
+.u-section-5 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-6 {
+  margin: 0;
+}
+
+.u-section-5 .u-text-7 {
+  margin: 20px 0 0;
+}
+
+.u-section-5 .u-image-3 {
+  min-height: 273px;
+  background-image: url("images/soar-inteligencia-machine-robot.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-5 .u-layout-cell-7 {
+  min-height: 273px;
+  background-image: none;
+}
+
+.u-section-5 .u-container-layout-7 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-8 {
+  margin: 18px 0 0;
+}
+
+.u-section-5 .u-text-9 {
+  margin: 13px 0 0;
+}
+
+.u-section-5 .u-image-4 {
+  min-height: 273px;
+  background-image: url("images/descarga.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-8 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 523px;
+  }
+
+  .u-section-5 .u-text-1 {
+    font-weight: normal;
+    margin-right: 314px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 225px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 225px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 225px;
+  }
+
+  .u-section-5 .u-layout-cell-4 {
+    min-height: 225px;
+  }
+
+  .u-section-5 .u-layout-cell-5 {
+    min-height: 225px;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 225px;
+  }
+
+  .u-section-5 .u-layout-cell-7 {
+    min-height: 225px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 225px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1453px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-right: 241px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 345px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 345px;
+  }
+
+  .u-section-5 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-layout-cell-5 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 345px;
+  }
+
+  .u-section-5 .u-layout-cell-7 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 345px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 2345px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-right: 181px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 518px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 518px;
+  }
+
+  .u-section-5 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 518px;
+  }
+
+  .u-section-5 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 518px;
+  }
+
+  .u-section-5 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1577px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-right: 114px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 326px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 326px;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 326px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 326px;
+  }
+}
